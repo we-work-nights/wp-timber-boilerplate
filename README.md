@@ -1,6 +1,6 @@
 ## Wordpress + Timber Boilerplate Theme
 
-This is a boilerplate theme for Wordpress using the [Timber](https://timber.github.io/) plugin. It provides a basic theme structure for
+This is a boilerplate theme for Wordpress using the [Timber](https://timber.github.io/docs/) plugin. It provides a basic theme structure ready for adapting and a basic css grid system.
 
 ### Set up
 
